@@ -1,5 +1,5 @@
 # deep-learning-specialization
-Deep Learning Specialization offered by Coursera
+Deep Learning Specialization offered by DeepLearning.AI.
 
-Assigments for each week for each course in deep learning specialization offered by Coursera. 
+Here are the assigments for each week for each course in deep learning specialization in Coursera. 
 The brains behind the specialization include Andrew Ng, Kian Katanforoosh, and Younes Mourri.
